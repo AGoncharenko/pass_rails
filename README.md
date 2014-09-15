@@ -10,7 +10,7 @@ Passport API application is built on:
 * Install the latest version of RVM: https://rvm.io/
 * Install Ruby from terminal: 'rvm install 2.1.0'
 * Install postgresql: http://www.postgresql.org/download/linux
-* Clone the git repo in terminal: 'git clone git@github.com:seedchange/sc_rails.git'
+* Clone the git repo in terminal: 'git clone https://github.com/AGoncharenko/pass_rails.git'
 * Go into directory 'cd pass_rails' and run 'bundle'
 * Set up the database through 'rake db:create'
 * Run database migrations through 'rake db:migrate'
